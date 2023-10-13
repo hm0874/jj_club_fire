@@ -1,41 +1,24 @@
 # JJ-Club
 > 전주대학교 동아리 앱 JJ-Club
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
 
-## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Features](#features)
-* [Screenshots](#screenshots)
-* [Setup](#setup)
-* [Usage](#usage)
-* [Project Status](#project-status)
-* [Room for Improvement](#room-for-improvement)
-* [Acknowledgements](#acknowledgements)
-* [Contact](#contact)
+## 목표 및 주요 내용
+* 모임 통합 시스템 구축 : 대학 내 동아리 및 스터디그룹(이하 모임) 등의 기획, 구성, 운영 등의 활성화를 위한 관리 도구 개발 및 운영 시스템 구축
+* 정보 및 가입 시스템 연계 : 대학 내 모임 정보 제공 및 가입 시스템 연계
+* 모임 추천 :  MBTI 테스트를 활용한 개인의 성향 파악 및 적합한 모임 추천
 <!-- * [License](#license) -->
 
 
-## General Information
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
+## 차별화 전략
+- 대학교 학생만을 위한 앱
+- 편리한 채팅 기능
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
-## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
-
-
-## Features
-List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
-
+## 구현 환경
+- Android Studio
+- Retrofit
+- Firebase
+- 
 
 ## Screenshots
 ![Example screenshot](./img/screenshot.png)
@@ -45,41 +28,8 @@ List the ready features here:
 ## Setup
 What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
 
-Proceed to describe how to install / setup one's local environment / get started with the project.
-
-
-## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
-
-`write-your-code-here`
-
-
-## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
-
-
-## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
-
-Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
-
-To do:
-- Feature to be added 1
-- Feature to be added 2
-
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
-
-
-## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Proceed to describe how to install / setup one's local environment / get started with th락
+Created by [@JAV_MyeongJun](https://github.com/hm0874) - 언제든지 연락주세!
 
 
 <!-- Optional -->

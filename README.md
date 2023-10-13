@@ -20,7 +20,7 @@
 - Firebase
 
 ## 실행 화면
-* '앱 화면' 폴더
+* [앱 화면](https://github.com/hm0874/jj_club_fire/tree/ecd7d512aee4a0569ef592cd58783be5c1dca150/%EC%95%B1%20%ED%99%94%EB%A9%B4)
 
 
 ## 연락

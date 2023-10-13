@@ -20,11 +20,6 @@
 - Firebase
 
 
-## Screenshots
-![Example screenshot](./img/글 상세 페이지.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
-
-
 ## Setup
 Created by [@JAV_MyeongJun](https://github.com/hm0874) - 언제든지 연락주세요!
 

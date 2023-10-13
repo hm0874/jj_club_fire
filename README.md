@@ -20,7 +20,7 @@
 - Firebase
 
 
-## Setup
+## 연락
 Created by [@JAV_MyeongJun](https://github.com/hm0874) - 언제든지 연락주세요!
 
 

@@ -19,6 +19,9 @@
 - Retrofit
 - Firebase
 
+## 실행 화면
+![스플래시](./앱 화면/1. 스플래시.png)
+
 
 ## 연락
 Created by [@JAV_MyeongJun](https://github.com/hm0874) - 언제든지 연락주세요!
